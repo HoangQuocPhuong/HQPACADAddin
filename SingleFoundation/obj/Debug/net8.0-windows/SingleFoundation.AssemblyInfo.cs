@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SingleFoundation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f8c75b78f3cff7df99f2657cb01c5f46df8d77a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SingleFoundation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SingleFoundation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

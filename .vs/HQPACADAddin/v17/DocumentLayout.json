@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Phuong (DA)\\OneDrive\\6. Repos\\HQPACADAddin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0AFC31-67F1-4EB9-BF51-9F366EDBAC5F}|SingleFoundation\\SingleFoundation.csproj|d:\\phuong (da)\\onedrive\\6. repos\\hqpacadaddin\\singlefoundation\\customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0AFC31-67F1-4EB9-BF51-9F366EDBAC5F}|SingleFoundation\\SingleFoundation.csproj|solutionrelative:singlefoundation\\customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomControl1.cs",
+              "DocumentMoniker": "D:\\Phuong (DA)\\OneDrive\\6. Repos\\HQPACADAddin\\SingleFoundation\\CustomControl1.cs",
+              "RelativeDocumentMoniker": "SingleFoundation\\CustomControl1.cs",
+              "ToolTip": "D:\\Phuong (DA)\\OneDrive\\6. Repos\\HQPACADAddin\\SingleFoundation\\CustomControl1.cs",
+              "RelativeToolTip": "SingleFoundation\\CustomControl1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:48:49.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
