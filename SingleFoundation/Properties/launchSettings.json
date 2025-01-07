@@ -1,7 +1,8 @@
 {
   "profiles": {
-    "SingleFoundation": {
-      "commandName": "Project"
+    "Autocad": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Autodesk\\AutoCAD 2025\\acad.exe"
     }
   }
 }
